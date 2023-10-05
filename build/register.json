@@ -24,27 +24,23 @@
       "tags": [
         "templates"
       ],
-      "itemIdentifier": "ogc.bbr.template.my-building-block",
+      "itemIdentifier": "ogc.bbr.template.dcat_prov",
       "shaclRules": [],
-      "schema": {
-        "application/yaml": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/annotated/bbr/template/my-building-block/schema.yaml",
-        "application/json": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/annotated/bbr/template/my-building-block/schema.json"
-      },
-      "ldContext": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/annotated/bbr/template/my-building-block/context.jsonld",
-      "sourceFiles": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/_sources/my-building-block/",
+      "sourceFiles": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/_sources/dcat_prov/",
       "validationPassed": true,
+      "testOutputs": "https://github.com/ogcincubator/dcat-ddi-cdif/blob/master/build/tests/bbr/template/dcat_prov/",
       "documentation": {
         "markdown": {
           "mediatype": "text/markdown",
-          "url": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/generateddocs/markdown/bbr/template/my-building-block/index.md"
+          "url": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/generateddocs/markdown/bbr/template/dcat_prov/index.md"
         },
         "json-full": {
           "mediatype": "application/json",
-          "url": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/generateddocs/json-full/bbr/template/my-building-block/index.json"
+          "url": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/generateddocs/json-full/bbr/template/dcat_prov/index.json"
         },
         "slate": {
           "mediatype": "text/html",
-          "url": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/generateddocs/slate-build/bbr/template/my-building-block/"
+          "url": "https://raw.githubusercontent.com/ogcincubator/dcat-ddi-cdif/master/build/generateddocs/slate-build/bbr/template/dcat_prov/"
         }
       }
     }
