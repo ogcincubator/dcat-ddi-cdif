@@ -1,0 +1,9 @@
+- title: This is an example with just a description and no code snippets.
+  content: |-
+    This is the content of the example.
+    
+    In **Markdown** format.
+
+  snippets:
+    - language: ttl
+      ref: examples/example.ttl
